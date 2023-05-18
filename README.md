@@ -1,6 +1,6 @@
 # Spotify Recommendation Engine
 
-This is a Python code for a simple Spotify recommendation engine. It uses the Spotify API to search for a track and get recommendations based on that track.
+This project is a simple Spotify recommendation engine. It uses the Spotify API to search for a track and get recommendations based on that track.
 
 ## Setup
 
