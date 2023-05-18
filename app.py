@@ -5,8 +5,8 @@ from requests import post, get
 from flask import Flask, render_template, request
 
 # Spotify API credentials
-client_id = "e7739f468c26477b833f2b358eefe1f4"
-client_secret = "a06003587ac04a5a9dd6a0467c52fd91"
+client_id = "client_id"
+client_secret = "client_secret"
 
 def get_token():
     auth_string = f"{client_id}:{client_secret}"
